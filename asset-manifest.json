@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/curlygiggle/static/js/main.5d80a885.chunk.js",
-    "main.js.map": "/curlygiggle/static/js/main.5d80a885.chunk.js.map",
+    "main.js": "/curlygiggle/static/js/main.b7a34d55.chunk.js",
+    "main.js.map": "/curlygiggle/static/js/main.b7a34d55.chunk.js.map",
     "runtime-main.js": "/curlygiggle/static/js/runtime-main.ecc1a06b.js",
     "runtime-main.js.map": "/curlygiggle/static/js/runtime-main.ecc1a06b.js.map",
-    "static/js/2.a4cbdcd2.chunk.js": "/curlygiggle/static/js/2.a4cbdcd2.chunk.js",
-    "static/js/2.a4cbdcd2.chunk.js.map": "/curlygiggle/static/js/2.a4cbdcd2.chunk.js.map",
+    "static/js/2.23e369f3.chunk.js": "/curlygiggle/static/js/2.23e369f3.chunk.js",
+    "static/js/2.23e369f3.chunk.js.map": "/curlygiggle/static/js/2.23e369f3.chunk.js.map",
     "index.html": "/curlygiggle/index.html",
-    "static/js/2.a4cbdcd2.chunk.js.LICENSE.txt": "/curlygiggle/static/js/2.a4cbdcd2.chunk.js.LICENSE.txt"
+    "static/js/2.23e369f3.chunk.js.LICENSE.txt": "/curlygiggle/static/js/2.23e369f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ecc1a06b.js",
-    "static/js/2.a4cbdcd2.chunk.js",
-    "static/js/main.5d80a885.chunk.js"
+    "static/js/2.23e369f3.chunk.js",
+    "static/js/main.b7a34d55.chunk.js"
   ]
 }
